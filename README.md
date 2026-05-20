@@ -15,52 +15,183 @@ Computational frameworks for predicting recombinase specificity, off-target geno
 ---
 ## Selected Projects
 
+## Selected Projects
+
 ### AI-Guided Prediction of Recombinase Specificity and Off-Target Genome Integration
-AI-driven computational platform for modeling recombinase specificity, genome integration fidelity, and off-target editing risk using sequence-function analysis, protein language models, NGS analytics, and scalable cloud-native genomics workflows. Designed to support programmable genome engineering and translational therapeutic development.
 
-### Interpretable AI Framework for Synergistic Drug Combination Discovery
-Developed an interpretable machine learning platform integrating pharmacogenomics datasets (DrugComb, GDSC, LINCS L1000), pathway knowledge, and molecular descriptors to predict synergistic cancer drug combinations. Combined gradient boosting, deep learning, SHAP explainability, and translational analytics to connect computational predictions with biological mechanisms and therapeutic relevance.
+AI-driven framework for programmable genome engineering and translational therapeutics.
 
-### Epigenetic Clock & Biological Aging Analytics Platform
-Built a scalable machine learning pipeline for biological age prediction using DNA methylation and epigenomics data. Integrated XGBoost, ElasticNet, SHAP interpretability, and large-scale omics processing frameworks to support biomarker discovery, translational aging research, and precision biotechnology applications.
+**Focus Areas**
+- Recombinase specificity prediction
+- Off-target genome integration modeling
+- Protein language models
+- NGS integration analytics
+- Explainable AI for genome editing
 
-### Digital Twin Platform for Liver Disease Progression & Therapeutic Simulation
-Designed a cloud-native Digital Twin framework integrating multi-omics, pharmacokinetics, and clinical datasets to simulate liver disease progression and therapeutic response scenarios. Enabled predictive analytics, treatment optimization, and scalable translational modeling using AWS-based infrastructure and real-time computational workflows.
-
-### CRISPR Prime Editing & Multi-Omics Validation Framework
-Led computational genome engineering initiatives focused on CRISPR-based prime editing, pegRNA optimization, off-target analysis, and multi-omics validation workflows. Integrated single-cell transcriptomics, proteomics, pathway enrichment, and high-throughput sequencing analytics to support precision therapeutics and translational gene editing research.
-
-### End-to-End Single-Cell RNA-Seq Analytics for Oncogenomics & Immunomics
-Developed scalable scRNA-seq workflows for tumor microenvironment analysis, immune profiling, and precision oncology research using Seurat, Scanpy, clusterProfiler, and ReactomePA. Delivered reproducible pipelines, advanced visualizations, and translational insights supporting cancer systems biology and immunotherapy analytics.
-
-### Integrated Proteo-Transcriptomics Analytics Platform
-Directed multi-omics integration workflows combining transcriptomics and proteomics to identify regulatory signatures, signaling pathways, and disease-associated biomarkers. Applied scalable statistical and systems biology methodologies supporting translational medicine, drug discovery, and biomarker research.
-
-### Cloud-Native Epigenomics & Chromatin Biomarker Discovery Pipeline
-Architected automated ChIP-seq and epigenomics analysis workflows using Nextflow, Snakemake, Python, and R to identify chromatin biomarkers, transcription factor occupancy, and regulatory mechanisms associated with disease progression and translational oncology.
-
-### Automated RNA-Seq & Disease Transcriptomics Pipeline
-Built reproducible RNA-seq analytics pipelines integrating DESeq2, machine learning, pathway enrichment, and cloud-native orchestration to uncover disease-associated gene expression signatures and biomarker candidates for translational genomics and precision medicine applications.
-
-### Biomedical NLP & Large Language Model (LLM) Analytics Platform
-Developed biomedical NLP and LLM-driven analytics systems leveraging BioBERT, SciBERT, BioGPT, and domain-specific embeddings for literature intelligence, biomedical entity recognition, omics annotation, clinical text mining, and AI-assisted translational research workflows.
-
-### Clinical & Biomedical Text Mining Infrastructure
-Led development of scalable biomedical text mining systems integrating PubMed analytics, clinical document processing, transformer-based NLP models, and cloud-native deployment architectures for knowledge extraction, drug discovery support, and precision medicine applications.
+**Core Stack**
+`Python` `PyTorch` `LLMs` `Biopython` `AWS` `Nextflow`
 
 ---
 
-## Selected Platforms & Engineering Themes
+### Interpretable AI Framework for Synergistic Drug Combination Discovery
 
-- Clinical diagnostics NGS pipeline modernization
-- High-throughput multi-omics analytics
-- AI-driven molecular biomarker discovery
-- Biomedical data lake architecture
-- Single-cell immunogenomics analytics
-- Clinical AI and decision support analytics
-- Reproducible research infrastructure
-- MLOps and DevSecOps for biomedical AI
- 
+Machine learning platform for predicting synergistic cancer drug combinations using pharmacogenomics and pathway-aware analytics.
+
+**Focus Areas**
+- Drug synergy prediction
+- Pharmacogenomics integration
+- Explainable AI (SHAP)
+- Translational oncology analytics
+- Computational drug discovery
+
+**Core Stack**
+`XGBoost` `Deep Learning` `SHAP` `DrugComb` `GDSC` `LINCS`
+
+---
+
+### Epigenetic Clock & Biological Aging Analytics Platform
+
+Scalable methylation-based machine learning pipeline for biological age prediction and biomarker discovery.
+
+**Focus Areas**
+- DNA methylation analytics
+- Aging biomarker discovery
+- Explainable ML
+- Multi-omics integration
+- Translational aging research
+
+**Core Stack**
+`Python` `XGBoost` `ElasticNet` `Dask` `SHAP` `AnnData`
+
+---
+
+### Digital Twin Platform for Liver Disease Progression & Therapeutic Simulation
+
+Cloud-native Digital Twin framework for predictive modeling of liver disease progression and therapeutic response.
+
+**Focus Areas**
+- Multi-omics integration
+- Predictive disease modeling
+- Clinical simulation analytics
+- Precision therapeutics
+- Real-time cloud analytics
+
+**Core Stack**
+`Python` `R` `AWS` `Systems Biology` `Clinical Data Analytics`
+
+---
+
+### CRISPR Prime Editing & Multi-Omics Validation Framework
+
+Computational genome engineering workflows supporting prime editing optimization and multi-omics validation.
+
+**Focus Areas**
+- pegRNA optimization
+- Off-target analysis
+- Single-cell transcriptomics
+- Functional pathway enrichment
+- Precision therapeutics
+
+**Core Stack**
+`CRISPResso` `Seurat` `Scanpy` `MaxQuant` `KEGG` `GO`
+
+---
+
+### End-to-End Single-Cell RNA-Seq Analytics for Oncogenomics & Immunomics
+
+Scalable single-cell workflows for tumor microenvironment analysis and translational immunotherapy research.
+
+**Focus Areas**
+- Tumor microenvironment profiling
+- Immune cell characterization
+- Pathway enrichment
+- Precision oncology
+- Reproducible scRNA-seq workflows
+
+**Core Stack**
+`Seurat` `Scanpy` `clusterProfiler` `ReactomePA`
+
+---
+
+### Integrated Proteo-Transcriptomics Analytics Platform
+
+Multi-omics integration framework for biomarker discovery and systems biology analytics.
+
+**Focus Areas**
+- Proteo-transcriptomics integration
+- Disease biomarker discovery
+- Regulatory network analysis
+- Systems biology
+- Translational medicine
+
+**Core Stack**
+`R` `limma` `PCAtools` `ComplexHeatmap` `NormalyzerDE`
+
+---
+
+### Cloud-Native Epigenomics & Chromatin Biomarker Discovery Pipeline
+
+Automated ChIP-seq and epigenomics workflows for chromatin biomarker discovery and regulatory analytics.
+
+**Focus Areas**
+- ChIP-seq automation
+- Chromatin state analysis
+- Histone modification profiling
+- Regulatory genomics
+- Translational oncology
+
+**Core Stack**
+`Nextflow` `Snakemake` `MACS2` `DiffBind` `Python` `R`
+
+---
+
+### Automated RNA-Seq & Disease Transcriptomics Pipeline
+
+Reproducible RNA-seq workflows for disease-linked transcriptomics and biomarker prioritization.
+
+**Focus Areas**
+- Differential expression analysis
+- Gene-disease association modeling
+- Functional enrichment
+- Precision medicine analytics
+- Scalable transcriptomics workflows
+
+**Core Stack**
+`Nextflow` `DESeq2` `limma` `clusterProfiler` `Python`
+
+---
+
+### Biomedical NLP & Large Language Model (LLM) Analytics Platform
+
+LLM-driven biomedical analytics platform for literature intelligence, omics annotation, and translational research support.
+
+**Focus Areas**
+- Biomedical NLP
+- Scientific literature mining
+- Omics annotation
+- Clinical text analytics
+- AI-assisted translational research
+
+**Core Stack**
+`BioBERT` `SciBERT` `BioGPT` `Transformers` `PyTorch`
+
+---
+
+### Clinical & Biomedical Text Mining Infrastructure
+
+Scalable biomedical text mining system for knowledge extraction, clinical analytics, and precision medicine applications.
+
+**Focus Areas**
+- PubMed mining
+- Biomedical entity recognition
+- Clinical relationship extraction
+- Drug discovery analytics
+- Knowledge graph generation
+
+**Core Stack**
+`SciSpacy` `BioWordVec` `Flask` `Streamlit` `Docker` `AWS`
+
+---
 
 
 **Core Technologies**
