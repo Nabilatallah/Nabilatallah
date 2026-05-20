@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="github_banner_01.png" alt="Banner" width="100%">
 </p>
 # Nabil Atallah, Ph.D., MPH, MBA
 
