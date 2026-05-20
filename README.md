@@ -1,15 +1,22 @@
 # Nabil Atallah, Ph.D., MPH, MBA
 
-## Associate Director | AI, Computational Biology & Translational Bioinformatics
+## AI & Computational Biology Leader | Generative AI | Gene Editing | Multi-Omics | Biomedical NLP | Cloud-Native Bioinformatics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS Certified Machine Learning Engineer – Associate](https://img.shields.io/badge/AWS_Certified-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-3AAE2A?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-black?style=for-the-badge)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Multiomics-darkgreen?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs_&_RAG-black?style=for-the-badge)
+![Gene Editing](https://img.shields.io/badge/Gene_Editing-CRISPR_&_Prime_Editing-darkred?style=for-the-badge)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 I build AI-driven, cloud-native, and reproducible computational platforms for biomedical research, translational medicine, precision health, and multi-omics discovery.
 
