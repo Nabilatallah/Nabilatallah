@@ -15,8 +15,6 @@ Computational frameworks for predicting recombinase specificity, off-target geno
 ---
 ## Selected Projects
 
-## Selected Projects
-
 ### AI-Guided Prediction of Recombinase Specificity and Off-Target Genome Integration
 
 AI-driven framework for programmable genome engineering and translational therapeutics.
