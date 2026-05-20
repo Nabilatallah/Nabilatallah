@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 # Nabil Atallah, Ph.D., MPH, MBA
 
 ## AI & Computational Biology Leader | Generative AI | Gene Editing | Multi-Omics | Biomedical NLP | Cloud-Native Bioinformatics
