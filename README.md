@@ -177,9 +177,6 @@ Faculty experience in bioinformatics, computational biology, multi-omics analyti
 Mentoring interdisciplinary teams across AI/ML, computational biology, biomedical data science, and scalable research infrastructure.
 
 ---
-
-# GitHub Analytics
-
 # GitHub Analytics
 
 <p align="center">
