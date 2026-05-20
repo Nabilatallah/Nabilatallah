@@ -1,6 +1,4 @@
-## Featured Project Areas
-
-#### Recommended Flagship Project
+#### Flagship Project
 **AI-Guided Prediction of Recombinase Specificity and Off-Target Genome Integration**
 
 Computational frameworks for predicting recombinase specificity, off-target genome integration, and programmable genome engineering outcomes using AI/ML, sequence-function modeling, protein language models, and large-scale genomics analytics focused on:
@@ -13,6 +11,9 @@ Computational frameworks for predicting recombinase specificity, off-target geno
 - Long-read and hybrid capture integration analysis
 - Cloud-native scalable genomics pipelines
 - Explainable AI for genome engineering systems
+
+---
+## Featured Project Areas
 
 ### AI for Translational Medicine
 Biomedical AI systems supporting literature intelligence, clinical decision support, biomarker discovery, and research acceleration.
