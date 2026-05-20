@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Nabilatallah/Nabilatallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### AI-Guided Genome Editing & Recombinase Engineering
 
 Computational frameworks for predicting recombinase specificity, off-target genome integration, and programmable genome engineering outcomes using AI/ML, sequence-function modeling, protein language models, and large-scale genomics analytics.
