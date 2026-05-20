@@ -17,7 +17,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-black?style=for-the-badge)
 ![Gene Editing](https://img.shields.io/badge/Gene_Editing-CRISPR_&_Prime_Editing-darkred?style=for-the-badge)
-![Multi-Omics](https://img.shields.io/badge/Multi--Omics-Systems_Biology-1B5E20?style=for-the-badge)
+![Multi-Omics](https://img.shields.io/badge/Multi--Omics-1B5E20?style=for-the-badge)
 ![Precision Medicine](https://img.shields.io/badge/Precision_Medicine-Translational_AI-1565C0?style=for-the-badge)
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-Protein_Structure_Prediction-00599C?style=for-the-badge)
 ![HPC](https://img.shields.io/badge/HPC-High_Performance_Computing-6A1B9A?style=for-the-badge)
