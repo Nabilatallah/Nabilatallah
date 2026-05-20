@@ -17,11 +17,8 @@
 ![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs_&_RAG-black?style=for-the-badge)
 ![Gene Editing](https://img.shields.io/badge/Gene_Editing-CRISPR_&_Prime_Editing-darkred?style=for-the-badge)
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-Protein_Structure_Prediction-00599C?style=for-the-badge)
-
 ![HPC](https://img.shields.io/badge/HPC-High_Performance_Computing-6A1B9A?style=for-the-badge)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
