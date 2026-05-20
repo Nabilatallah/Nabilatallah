@@ -183,7 +183,6 @@ Mentoring interdisciplinary teams across AI/ML, computational biology, biomedica
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabilatallah&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilatallah&layout=compact&theme=tokyonight)
-
 ---
 
 # Contact
