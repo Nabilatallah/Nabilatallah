@@ -20,7 +20,7 @@
 ![Multi-Omics](https://img.shields.io/badge/Multi--Omics-1B5E20?style=for-the-badge)
 ![Precision Medicine](https://img.shields.io/badge/Precision_Medicine-1565C0?style=for-the-badge)
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-Protein_Structure_Prediction-00599C?style=for-the-badge)
-![HPC](https://img.shields.io/badge/HPC-High_Performance_Computing-6A1B9A?style=for-the-badge)
+![HPC](https://img.shields.io/badge/High_Performance_Computing-6A1B9A?style=for-the-badge)
 ![Automated Workflows](https://img.shields.io/badge/Automated_Workflows-Reproducible_Pipelines-00897B?style=for-the-badge)
 
 Building AI-driven, cloud-native, and reproducible computational platforms for biomedical research, translational medicine, precision health, genome engineering, and multi-omics discovery.
