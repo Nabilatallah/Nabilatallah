@@ -1,3 +1,19 @@
+# Nabil Atallah, Ph.D., MPH, MBA
+
+## Associate Director | AI, Computational Biology & Translational Bioinformatics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3AAE2A?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-black?style=for-the-badge)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Multiomics-darkgreen?style=for-the-badge)
+
+I build AI-driven, cloud-native, and reproducible computational platforms for biomedical research, translational medicine, precision health, and multi-omics discovery.
+
+
 #### Flagship Project
 **AI-Guided Prediction of Recombinase Specificity and Off-Target Genome Integration**
 
